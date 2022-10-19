@@ -1,4 +1,8 @@
 """
+Project Euler problem #2
+by Andrew Kobach
+Date: 18 Oct 2022
+
 By considering the terms in the Fibonacci sequence whose values do not exceed four million,
 find the sum of the even-valued terms.
 """
