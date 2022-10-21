@@ -1,4 +1,8 @@
 """
+Project Euler problem #3
+by Andrew Kobach
+Date: 19 Oct 2022
+
 What is the largest prime factor of the number 600851475143 ?
 """
 
@@ -19,4 +23,3 @@ def solution(n):
 if __name__ == "__main__":
     n = 600851475143
     print(solution(n))
-    
