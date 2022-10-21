@@ -51,5 +51,7 @@ def solution():
 
 
 if __name__ == "__main__":
-    # create a factor bucket
+    # go through each integer, 2 through 20, and put in the bucket...
+    # the smallest primes needed to create that number via multiplication...
+    # which are not already in the bucket
     print(solution())
