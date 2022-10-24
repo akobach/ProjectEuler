@@ -24,7 +24,7 @@ def solution(z):
             if 2*m*k not in divisors:
                 continue
             n = int((z/k - 2*m**2)/(2*m))
-            if n <= 0 or m < n or m == n:
+            if n <= 0 or m <= n:
                 continue
             return 2*k**3*m*n*(m**4 - n**4)
 
