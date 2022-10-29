@@ -1,7 +1,7 @@
 """
 Project Euler problem #12
 by Andrew Kobach
-Date: 278Oct 2022
+Date: 28 Oct 2022
 
 What is the value of the first triangle number to have over five hundred divisors?
 """
