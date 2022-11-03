@@ -1,5 +1,5 @@
 """
-Project Euler problem #14
+Project Euler problem #15
 by Andrew Kobach
 Date: 1 Nov 2022
 
