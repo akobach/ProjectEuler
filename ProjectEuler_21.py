@@ -1,7 +1,7 @@
 """
 Project Euler problem #21
 by Andrew Kobach
-Date: 4 Nov 2022
+Date: 7 Nov 2022
 
 Let d(n) be defined as the sum of proper divisors of n (numbers less than n which divide evenly into n).
 If d(a) = b and d(b) = a, where a ≠ b, then a and b are an amicable pair and each of a and b are called amicable numbers.
